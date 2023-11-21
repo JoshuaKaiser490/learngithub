@@ -1,5 +1,5 @@
 # LearnGithub
-## Branch errstellen 
+## Branch erstellen 
 ```
 git checkout -b feature-branch
 
